@@ -42,7 +42,7 @@ Height is converted from feet/inches to meters: `(feet * 12 + inches) * 0.0254`.
 - Persist results or add history.
 
 ## Screenshots
-![BMI Calculator](Screenshots%20(50).png) 
+![BMI Calculator](Screenshot%20(50).png) 
 
 No dependencies required – pure HTML/CSS/JS.
 
